@@ -1,6 +1,6 @@
 # Briefly
 
-**AI-powered meeting intelligence and team productivity workspace** 
+**AI-powered meeting intelligence and team productivity workspace.** 
 
 [![Angular](https://img.shields.io/badge/Angular-21-DD0031?logo=angular&logoColor=white)](https://angular.dev/)
 [![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)](https://expressjs.com/)
